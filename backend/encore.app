@@ -1,0 +1,1 @@
+{"id": "solana-meme-coin-creator-4ku2", "lang": "typescript"}
